@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <div>Este es mi primer comentario de dos lineas</div>
+        <div>Aprendiendo a documentar mi codigo con OpenBootcamp</div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=18xGRkL0DCU&t=59s&ab_channel=TribunaXeneize">Boca Campeon 2022</a></li>
+            <li><a href="https://www.youtube.com/watch?v=VmfLN-9aHRM&ab_channel=FootballZone">Los 20 mejores goles de Messi</a></li>
+            <li><a href="https://www.youtube.com/watch?v=0E44DClsX5Q&ab_channel=CallofDuty">Trailer oficial Call of Duty Warzone</a></li>
+        </ul>
+    </body>
+</html>
